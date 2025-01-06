@@ -46,3 +46,4 @@ _deps
 CMakeUserPresets.json
 *.tcl
 build
+.vscode
